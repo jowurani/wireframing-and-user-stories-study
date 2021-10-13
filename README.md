@@ -1,5 +1,5 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
-# Lorem ipsum: Study
+# Wireframes and User Stories: Study
 
 ## Learning Objectives
 

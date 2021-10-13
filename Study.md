@@ -19,8 +19,8 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 
 1. Why should we create wireframes?
 
-    ```js
-    /* Your Answer */
+    ```
+    Please write your answer here.
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?

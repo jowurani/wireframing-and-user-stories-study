@@ -1,26 +1,23 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
-# Lorem ipsum: Study
+# Wireframes and User Stories: Study
 
 Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along with the provided resources to research and answer the [questions below](#questions).
 
-## Required Reading
+## Resourses
 
-- [Lorem ipsum dolor sit amet](#)
-
-## Optional Reading
-
-- [Lorem ipsum dolor sit amet](#)
+- [User Stories](https://www.youtube.com/watch?v=apOvF9NVguA)
+- [Wireframes](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)
 
 
 ## Questions
 
-1. Lorem ipsum dolor sit amet
+1. Why should we write user stories?
 
     ```
     Please write your answer here.
     ```
 
-1. Write an example Lorem ipsum dolor sit amet:
+1. Why should we create wireframes?
 
     ```js
     /* Your Answer */

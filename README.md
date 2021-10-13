@@ -5,11 +5,8 @@
 
 By the end of this, you should know:
 
-- Lorem ipsum dolor sit amet
-
-By the end of this, you should be able to:
-
-- Lorem ipsum dolor sit amet
+- What is a User Story
+- What is a wireframe
 
 ## Instructions
 

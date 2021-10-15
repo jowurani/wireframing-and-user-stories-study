@@ -14,21 +14,22 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. Why should we write user stories?
 
     ```
-    Please write your answer here.
+    To help developers follow agile principles which is basically the direct line of work flow to make something specifically for the user (the customer). 
     ```
 
 1. Why should we create wireframes?
 
     ```
-    Please write your answer here.
+    Wireframes can give you the vision for the entire layout and functionality of your website. It can also serve as the first stage of a design.
+Wireframes give you an idea of the overall structure pages will take, and how navigation will flow. 
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 5
 
-    Clarity: 
+    Clarity: 5
     ```
 
 ### Response Guidelines
